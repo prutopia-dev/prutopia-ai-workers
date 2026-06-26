@@ -1,5 +1,5 @@
 # Pr'Utopia — AI Worker
-
+ 
 Proxy Anthropic **mutualisé** entre les projets Pr'Utopia (Ludo, etc.).
 Il détient la clé API Anthropic et n'accepte que les requêtes authentifiées
 par un secret partagé. Aucun projet n'appelle Anthropic directement.
